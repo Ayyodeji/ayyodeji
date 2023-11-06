@@ -1,6 +1,6 @@
 <img align="center" alt="banner" width="100%" src="./banners/Profilebanner.png">
 <div style="text-align: center;">
-  <h3>
+  <h3 align="center">
    Expertise in ML, NLP, Computer Vision, and DevOps. Bridging AI research for practical solutions.
   </h3>
 </div>
