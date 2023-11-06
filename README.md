@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyodeji&label=Profile%20views&color=0e75b6&style=flat" alt="ayyodeji" /> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/ayyodeji](github.com/ayyodeji)
-
 - 📫 How to reach me **ajayi.ayyodeji@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
