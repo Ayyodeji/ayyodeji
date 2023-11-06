@@ -1,7 +1,7 @@
 <img align="center" alt="banner" width="100%" src="./banners/Profilebanner.png">
 <div style="text-align: justify;">
   <h4>
-   AI/ML Ops Engineer with expertise in machine learning, NLP, Computer Vision, and DevOps. Bridging AI research for real-world solutions.
+   Expertise in machine learning, NLP, Computer Vision, and DevOps. Bridging AI research for real-world solutions.
   </h4>
 </div>
 
