@@ -1,8 +1,8 @@
 <img align="center" alt="banner" width="100%" src="./banners/Profilebanner.png">
 <div style="text-align: justify;">
-  <h4>
+  <h3>
    Expertise in machine learning, NLP, Computer Vision, and DevOps. Bridging AI research for real-world solutions.
-  </h4>
+  </h3>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyodeji&label=Profile%20views&color=0e75b6&style=flat" alt="ayyodeji" /> </p>
