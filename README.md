@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋,I'm Ayodeji Ajayi</h1>
 <img align="center" alt="banner" width="500" src="./banner/banner.jpg">
-<h3 style="text-align: justify;">AI and ML Ops Engineer with a deep understanding of machine learning models, a strong focus on Natural Language Processing (NLP) and Computer Vision, and a solid foundation in DevOps principles. Leveraging a background in LLMs (Large Language Models), I bridge the gap between AI research and practical applications, dedicated to crafting innovative solutions that drive real-world impact. My journey in engineering is marked by a commitment to creating systems that augment human intelligence, advance problem-solving, and provide valuable insights, all while ensuring ethical considerations are at the forefront. By combining my expertise in AI, ML Ops, and DevOps, I aim to bring the power of these technologies to life, making the world more efficient, informed, and connected.</h3>
+<h3 style="text-align: justify;">AI and ML Ops Engineer with expertise in machine learning, NLP, Computer Vision, DevOps principles. Bridging AI research and practical solutions for real-world impact. Committed to creating ethical, intelligent systems that enhance problem-solving, aiming to make the world more efficient and connected.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyodeji&label=Profile%20views&color=0e75b6&style=flat" alt="ayyodeji" /> </p>
 
