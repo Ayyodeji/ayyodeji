@@ -1,4 +1,3 @@
-<h1 align="center">Hello 👋,I'm Ayodeji Ajayi</h1>
 <img align="center" alt="banner" width="100%" src="./banners/banner.png">
 <h3 style="text-align: justify;">AI and ML Ops Engineer with expertise in machine learning, NLP, Computer Vision, DevOps principles. Bridging AI research and practical solutions for real-world impact. Committed to creating ethical, intelligent systems that enhance problem-solving, aiming to make the world more efficient and connected.</h3>
 
