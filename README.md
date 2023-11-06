@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayyodeji&show_icons=true&locale=en" alt="ayyodeji" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyodeji&" alt="ayyodeji" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyodeji&theme=dark" alt="ayyodeji" /></p>
