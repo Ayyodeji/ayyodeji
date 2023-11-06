@@ -1,7 +1,7 @@
 <img align="center" alt="banner" width="100%" src="./banners/Profilebanner.png">
 <div style="text-align: justify;">
   <h4>
-   AI/ML Ops Engineer with expertise in machine learning, NLP, Computer Vision, and DevOps. Bridging AI research for real-world solutions. Committed to ethical, intelligent systems for an efficient, connected world.
+   AI and ML Ops Engineer with expertise in machine learning, NLP, Computer Vision, DevOps principles. Bridging AI research and practical solutions for real-world impact. Committed to creating ethical, intelligent systems that enhance problem-solving, aiming to make the world more efficient and connected.
   </h4>
 </div>
 
